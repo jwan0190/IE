@@ -25,7 +25,7 @@ const Home = () => {
   return (
     <div>
       <div className="hero-container">
-        <video src="./video.mp4" autoPlay loop muted />
+        <video src="/public/video.mp4" autoPlay loop muted />
         <h1>
           <Bounce top duration={2000} delay={200}>
             Welcome To Wayfarers
