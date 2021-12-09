@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Guide",
+        "step": "Step1",
+        "description":"Plan your journey before arriving.",
+        "image":"/home/1.png",
+        "button":"Go to Guide",
+        "path":"./guide"
+    },
+    {
+        "title": "Attractions",
+        "step": "Step2",
+        "description":"Enjoy Melbourne’s tourist attractions and know which one is suitable for you.",
+        "image":"/home/3.png",
+        "button":"Pick your Attractions",
+        "path":"./attraction/0"
+    },
+    {
+        "title": "Map",
+        "step": "Step3",
+        "description":"Get information about accessible car parks and toilets around attraction.",
+        "image":"/home/2.png",
+        "button":"Go to Map",
+        "path":"./map"
+    }
+]
