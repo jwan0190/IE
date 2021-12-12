@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import banner from "./assets/policyBanner.png";
-import ballon from "./assets/policyBanner.png";
+import ballon from "./assets/ballon.png";
 import Tilt from "react-parallax-tilt";
 import Accordion from "../../component/Accordion/Accordion";
 import data from "./assets/melbp.json";

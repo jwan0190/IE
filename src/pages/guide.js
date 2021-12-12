@@ -6,7 +6,7 @@ import {
 import "react-vertical-timeline-component/style.min.css";
 import data from "./subpages/assets/guidelist.json";
 import "../pages/subpages/carparkPermit.css";
-import banner from "./subpages/assets/banner.jpeg";
+import banner from "./banner.jpeg";
 import ballon from "./subpages/assets/ballon.png";
 import Tilt from "react-parallax-tilt";
 
