@@ -45,6 +45,16 @@ const About = () => {
               </p>
               <p>Our team members include:</p>
               <ListGroup>
+                  <ListGroup.Item variant="dark">
+                  Ph.d Student :{" "}
+                  <a
+                    href="https://www.linkedin.com/in/shivam-behl-32a1a5114/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    Wanzhe Xu
+                  </a>
+                </ListGroup.Item>
                 <ListGroup.Item variant="dark">
                   Front-end and back-end developer :{" "}
                   <a
@@ -75,26 +85,7 @@ const About = () => {
                     Xiaochen Jin
                   </a>
                 </ListGroup.Item>
-                <ListGroup.Item variant="dark">
-                  Business logic analyst :{" "}
-                  <a
-                    href="https://www.linkedin.com/in/shivam-behl-32a1a5114/"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    Shivam Behl
-                  </a>
-                </ListGroup.Item>
-                <ListGroup.Item variant="dark">
-                  Data science analyst :{" "}
-                  <a
-                    href="https://www.linkedin.com/in/khaled-alterish-20a8859a/"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    Khaled Alterish
-                  </a>
-                </ListGroup.Item>
+                
               </ListGroup>
             </div>
           </Col>
