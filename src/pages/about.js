@@ -48,7 +48,7 @@ const About = () => {
                   <ListGroup.Item variant="dark">
                   Ph.d Student :{" "}
                   <a
-                    href="https://www.linkedin.com/in/shivam-behl-32a1a5114/"
+                    href="https://www.linkedin.com/in/wanzhe-xu-89957517b/"
                     target="_blank"
                     rel="noreferrer"
                   >
